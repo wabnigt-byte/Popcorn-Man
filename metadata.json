@@ -1,0 +1,5 @@
+{
+  "name": "Popcorn Man: Coprime Architect",
+  "description": "A professional-grade, math-inspired exploration game where you traverse a 200x200 grid based on number theory. Collect coprime pairs, toggle between mathematical states, and explore remapped dimensions.",
+  "requestFramePermissions": []
+}
